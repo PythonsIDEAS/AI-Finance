@@ -1,0 +1,15 @@
+amount,type,category,date,description
+3500.00,income,other,2026-04-01,Monthly Salary
+120.50,expense,food,2026-04-02,Grocery Store
+45.00,expense,transport,2026-04-03,Gas Station
+200.00,expense,entertainment,2026-04-05,Concert Tickets
+15.99,expense,subscriptions,2026-04-08,Netflix
+85.00,expense,food,2026-04-12,Restaurant Dinner
+60.00,expense,transport,2026-04-15,Train Pass
+150.00,expense,education,2026-04-18,Online Course
+400.00,expense,other,2026-04-20,New Desk
+3500.00,income,other,2026-05-01,Monthly Salary
+140.00,expense,food,2026-05-02,Grocery Store
+50.00,expense,transport,2026-05-04,Gas Station
+15.99,expense,subscriptions,2026-05-08,Netflix
+110.00,expense,food,2026-05-09,Weekend Brunch
